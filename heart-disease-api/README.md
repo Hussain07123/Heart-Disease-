@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction API
+#  Heart Disease Prediction API
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -9,7 +9,7 @@ A production-ready REST API that predicts the likelihood of heart disease based 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Single & batch predictions** via REST endpoints
 - **Auto-generated Swagger UI** at `/docs`
@@ -19,7 +19,7 @@ A production-ready REST API that predicts the likelihood of heart disease based 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 heart-disease-api/
@@ -37,7 +37,7 @@ heart-disease-api/
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ```bash
 # 1. Clone the repo
@@ -72,7 +72,7 @@ Visit **http://127.0.0.1:8000/docs** for the interactive Swagger UI.
 
 ---
 
-## 🧪 Example Request
+##  Example Request
 
 ```bash
 curl -X POST "http://127.0.0.1:8000/predict" \
@@ -114,4 +114,4 @@ This API is for **educational purposes only**. It is not a substitute for profes
 
 ---
 
-**Made with ❤️ by [Hussain07123](https://github.com/Hussain07123)**
+**Made by [Hussain07123](https://github.com/Hussain07123)**
